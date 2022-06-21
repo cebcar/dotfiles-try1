@@ -13,3 +13,12 @@ Learning about dotfiles
 - .zshrc
 - Git config, SSH
 
+## my initial System Preferences changes
+### Security and Privacy
+General
+- (+) use your Apple Watch to unlock apps and your Mac
+### Displays
+  - Reduce brightness
+### Dock
+- size: smaller (~25%)
+- magnification: smaller (~25%)

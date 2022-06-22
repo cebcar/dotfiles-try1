@@ -13,7 +13,7 @@ Learning about dotfiles
 - .zshrc
 - Git config, SSH
 
-## restarting course
+## restarting course on 220622
 We tried to watch, do, and document all at the same time.
 That did not work.
 This time, we plan, a section at a time, to:

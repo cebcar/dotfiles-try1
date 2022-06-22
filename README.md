@@ -19,6 +19,6 @@ General
 - (+) use your Apple Watch to unlock apps and your Mac
 ### Displays
   - Reduce brightness
-### Dock
-- size: smaller (~25%)
-- magnification: smaller (~25%)
+### We have also:
+- printed to my HP OfficeJet Pro 6960; "just worked" (no configuration needed)
+- used Safari freely, with no Preferences changes

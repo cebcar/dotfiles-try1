@@ -3,6 +3,7 @@ initially based on udemy course dotfiles.eieio.xyz
 
 Learning about dotfiles
 
+*work done manually; to be automated* 
 ## TODO (automate)
 - Terminal Preferences
 - changed shell to zsh

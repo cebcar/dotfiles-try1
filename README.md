@@ -3,8 +3,7 @@ initially based on udemy course dotfiles.eieio.xyz
 
 Learning about dotfiles
 
-*work done manually; to be automated* 
-## TODO (automate)
+## TODO (from course: to automate)
 - Terminal Preferences
 - changed shell to zsh
 - dock preferenceas
@@ -21,7 +20,7 @@ This time, we plan, a section at a time, to:
 - watch and document/plan
 - then implement from our own instructions
 
-## my initial System Preferences changes
+## my initial System Preferences changes (mine - to automate)
 Security and Privacy : General
 - (+) use your Apple Watch to unlock apps and your Mac
 
